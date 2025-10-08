@@ -5,7 +5,7 @@ title: "My Home Page"
 
 This is my website
 
-[Link to another page](./another-page.html).
+[Link to another page](./https://docs.google.com/document/d/1qsex0VbKNqXBlR3OvObcUXqdpEySb3fatiYtifDdiDw/edit?tab=t.0).
 
 ![bobbypicture](assets/images/bobbypicture.png)
 
