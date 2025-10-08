@@ -7,7 +7,7 @@ This is my website
 
 [Link to another page](./another-page.html).
 
-![bobbypicture](asset/images/bobbypicture.png)
+![bobbypicture](assets/images/bobbypicture.png)
 
 There should be whitespace between paragraphs.
 
