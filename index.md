@@ -40,11 +40,14 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### Header 4
+#### List of Hobbies
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Skiing
+*   Mountain Biking
+*   Basketball
+*   Climbing
+*   Lifting
+*   Reading
 
 ##### Header 5
 
