@@ -57,14 +57,14 @@ end
 2.  This is an ordered list following a header.
 3.  This is an ordered list following a header.
 
-###### Header 6
+###### Wealthiest People
 
-| head1        | head two          | three |
+| First Name   | Last Name |      $$$           |
 |:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+| 1. Elon      | Musk      | 500 Billion   |
+| 2. Larry     | Ellison   | 351 Billion   |
+| 3. Mark      | Zuckerberg| 246 Billion   |
+
 
 ### There's a horizontal rule below this.
 
