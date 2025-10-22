@@ -5,12 +5,11 @@ title: "My Home Page"
 
 This is my first website. This website is simply a website about me. It will include a link to my resume, a second page with a description and pictures of my dog, and a bulleted list of my hobbies.
 
-[Link To My Resume](https://docs.google.com/document/d/1qsex0VbKNqXBlR3OvObcUXqdpEySb3fatiYtifDdiDw/edit?tab=t.0)
-
 ![bobbypicture](assets/images/bobbypicture.png)
 
 [Link to another page](./SecondPage.html).
 
+[Link To My Resume](https://docs.google.com/document/d/1qsex0VbKNqXBlR3OvObcUXqdpEySb3fatiYtifDdiDw/edit?tab=t.0)
 
 
 #### List of Hobbies
